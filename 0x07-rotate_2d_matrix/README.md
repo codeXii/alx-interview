@@ -5,4 +5,4 @@ without creating a new matrix.
 The strategy employed in my solution is:
     1. First reflecting the matrix along the leading diagonal or negative slope
        diagonal.
-    2. Rotating the resulting matrix along the middle.
+    2. Rotating the resulting matrix along the middle...
