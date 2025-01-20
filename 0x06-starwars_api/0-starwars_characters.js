@@ -23,3 +23,5 @@ function printCharacters (characters, index) {
     }
   });
 }
+
+// star wars Api
