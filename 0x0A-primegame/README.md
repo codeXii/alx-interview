@@ -1,4 +1,4 @@
-# Prime Game
+# Prime Game ..
 
 ### 0. Prime Game
 `mandatory`
