@@ -1,3 +1,4 @@
+# nquuens
 #!/usr/bin/python3
 """
     N-queen problem
